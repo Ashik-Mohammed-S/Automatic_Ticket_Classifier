@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "files": {
+    "complaints-2021-05-14_08_16.json": {
+      "sha256": "de697d319b184b78da238999c5901e8f08dc4c9b155c4d448139cd286dde760d",
+      "uncompressed_bytes": 83392514,
+      "storage": "gzip_parts",
+      "parts": [
+        {
+          "path": "bundled/complaints-2021-05-14_08_16.json.gz.part000",
+          "sha256": "4a2b169189060505c6544fccdf327348e58d12ad0f7f9e13b4ac898c8d17693c",
+          "bytes": 14287803
+        }
+      ]
+    }
+  }
+}
