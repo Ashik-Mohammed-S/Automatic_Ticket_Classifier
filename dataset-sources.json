@@ -1,0 +1,15 @@
+{
+  "source_repository": "himsitm/NLP_Automatic_Ticket_Classification_Assignment",
+  "commit": "2222a58b80f841a592f5af7253e86efeb8bb0d53",
+  "license": null,
+  "files": [
+    {
+      "filename": "complaints-2021-05-14_08_16.json",
+      "url": "https://raw.githubusercontent.com/himsitm/NLP_Automatic_Ticket_Classification_Assignment/2222a58b80f841a592f5af7253e86efeb8bb0d53/complaints-2021-05-14_08_16.zip",
+      "sha256": "de697d319b184b78da238999c5901e8f08dc4c9b155c4d448139cd286dde760d",
+      "bytes": 83392514,
+      "rows": 78313,
+      "archive_member": "complaints-2021-05-14_08_16.json"
+    }
+  ]
+}
